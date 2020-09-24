@@ -1,0 +1,25 @@
+{
+  "name": "23-calendar-backend",
+  "version": "1.0.0",
+  "description": "In the proyect dictory, you can run:",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsemalvarez/calendar-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsemalvarez/calendar-backend/issues"
+  },
+  "homepage": "https://github.com/jsemalvarez/calendar-backend#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
